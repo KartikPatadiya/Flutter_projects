@@ -1,0 +1,10 @@
+//"Wrap with widget" In Flutter Android Studio//
+
+Steps:
+
+step 1: go to your Android Studio settings 
+step 2: search "assistant" in searchbox
+step 3: then you will see on left side Editor -> Intentions
+step 4: double click on intentions 
+step 5: then you will see Dart, in that Enable "Quick assist powered by the Dart Analysis Server"
+step 6: Save and closed, retart Android Studio It's Work!!! <:
